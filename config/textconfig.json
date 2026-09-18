@@ -1,0 +1,76 @@
+{
+  "usage": "text configuration",
+  "setup": [
+    {
+      "id": "file",
+      "name": "Turnering",
+      "create": "Opprett",
+      "open": "Åpne",
+      "save": "Lagre",
+      "exit": "Avslutt"
+    },
+    {
+      "id": "setup",
+      "name": "Oppsett",
+      "team": "Lag",
+      "time": "Tid",
+      "rules": "Regler",
+      "manual": "Bruker manual"
+    },
+    {
+      "id": "headings",
+      "top": "TIDSKONTROLL",
+      "center": "RESULTAT  -  SPILLEKØ",
+      "bottom": "KONTROLL PANEL"
+    },
+    {
+      "id": "buttons",
+      "start": "Start",
+      "pause": "Kampresultat",
+      "homegoal": "Hjemmemål",
+      "awaygoal": "Bortemål",
+      "init": "Initier",
+      "backup": "Nød endringer"
+    },
+    {
+      "id": "messages",
+      "close": "LUKKE",
+      "closeMsg": "TURNERING ER NÅ LUKKET!",
+      "lagre": "TURNERING",
+      "lagreMsg": "Det er et eksisterende prosjekt åpent, lagre data?"
+    },
+    {
+      "id": "teamform",
+      "name": "Navn på lag",
+      "save": "Legg til lag",
+      "cancel": "Avbryt registrering"
+    },
+    {
+      "id": "timeform",
+      "time": "Varighet (timer)",
+      "playtime": "Spilletid (minutter)",
+      "save": "Lagre data",
+      "cancel": "Avbryt registrering"
+    },
+    {
+      "id": "editform",
+      "time": "Varighet (timer)",
+      "playtime": "Spilletid (minutter)",
+      "save": "Lagre data",
+      "cancel": "Avbryt registrering"
+    },
+    {
+      "id": "pdfform",
+      "next": "Nest side -->",
+      "prior": "<-- Forrige Side"
+    },
+    {
+      "id": "emergency",
+      "select": "Velg valgt lag",
+      "time": "Spilte minutter",
+      "goal": "Antall pluss mål",
+      "save": "Endre data",
+      "cancel": "Avbryt endringer"
+    }
+  ]
+}
