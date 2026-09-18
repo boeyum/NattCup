@@ -2,6 +2,8 @@
 
 NattCup was first attempted in the early 1990s as a team handball tournament designed to foster unity both within and between teams. The tournament was originally played between 8 p.m. and 8 a.m.—hence the Norwegian name "NattCup," meaning "Night Cup." Naturally, the tournament can also be played at other times and with a different duration.
 <br><br>
+The tournament is unique in that it does not rely on the usual points and goal difference. Instead, the focus is on the total amount of playing time a team accumulates over the course of the tournament. If two teams are tied on playing time, the winner is the team that has scored the most goals. The rules are explained in the "userman.pdf" file.<br><br>
+
 ## NattCup software
 
 The software designed to run the tournament was developed using Java and Swing. It is structured as a Maven project, with the IntelliJ development platform used for its creation. The included .pom file contains everything necessary to generate an executable .jar file for the Project in IntelliJ.<br><br>
