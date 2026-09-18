@@ -1,0 +1,76 @@
+{
+  "usage": "text configuration",
+  "setup": [
+    {
+      "id": "file",
+      "name": "Tournament",
+      "create": "Create",
+      "open": "Open",
+      "save": "Save",
+      "exit": "Exit"
+    },
+    {
+      "id": "setup",
+      "name": "Setup",
+      "team": "Team",
+      "time": "Time",
+      "rules": "Rules",
+      "manual": "User manual"
+    },
+    {
+      "id": "headings",
+      "top": "TIME CONTROL",
+      "center": "RESULT  -  PLAY QUEUE",
+      "bottom": "CONTROL PANEL"
+    },
+    {
+      "id": "buttons",
+      "start": "Start",
+      "pause": "Match result",
+      "homegoal": "Home goal",
+      "awaygoal": "Away goal",
+      "init": "Initiate",
+      "backup": "Emergency changes"
+    },
+    {
+      "id": "messages",
+      "close": "CLOSE",
+      "closeMsg": "THE TOURNAMENT IS NOW CLOSED!",
+      "lagre": "TOURNAMENT",
+      "lagreMsg": "There is an open project; save data?"
+    },
+    {
+      "id": "teamform",
+      "name": "Team name",
+      "save": "Add team",
+      "cancel": "Cancel registration"
+    },
+    {
+      "id": "timeform",
+      "time": "Duration (hours)",
+      "playtime": "Playing time (minutes)",
+      "save": "Save data",
+      "cancel": "Cancel registration"
+    },
+    {
+      "id": "editform",
+      "time": "Duration (hours)",
+      "playtime": "Playing time (minutes)",
+      "save": "Save data",
+      "cancel": "Cancel registration"
+    },
+    {
+      "id": "pdfform",
+      "next": "Next page -->",
+      "prior": "<-- Prior page"
+    },
+    {
+      "id": "emergency",
+      "select": "Open selected team",
+      "time": "Minutes played",
+      "goal": "Number of goals scored",
+      "save": "Change data",
+      "cancel": "Discard changes"
+    }
+  ]
+}
